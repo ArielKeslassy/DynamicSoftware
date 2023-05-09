@@ -14,4 +14,4 @@ and creates a new updated version.
 # Current state:
 - Implemented chatbox for pygame
 - Implemented support in the models: 'code-davinci-edit-001', 'CarperAI/diff-codegen-350m-v2'.
-Please contribute!
+- Please contribute!
