@@ -11,7 +11,9 @@ These commands are passed to an NLP model with prompt engineering to edit the so
 and creates a new updated version.
 
 
-# Current state:
+# Current state
 - Implemented chatbox for pygame
 - Implemented support in the models: 'code-davinci-edit-001', 'CarperAI/diff-codegen-350m-v2'.
-- Please contribute!
+
+# License
+This project is open source and available under the MIT license. Feel free to use, modify, and distribute the code as needed. Contributions and feedback are welcome!
